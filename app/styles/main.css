@@ -93,6 +93,10 @@ hr {
   height:300px;
 }
 
+.panel-heading:hover {
+  cursor:pointer;
+}
+
 
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
